@@ -1,0 +1,36 @@
+body{
+	background-image:url(image.jpg);
+	background-size:cover;
+}
+.amader-form{
+	width:600px;
+	background:rgba(0, 0, 0, .5);
+	margin: 100px auto;
+	padding:20px;
+}
+.amader-form input{
+	display:block;
+	width:100%;
+	font-size:20px;
+	border:1px solid yellow;
+	background:transparent;
+	color:white;
+	border-radius:5px;
+}
+.amader-form label{
+	color: white;
+	display:block;
+	padding:5px 0;
+}
+.amader-form input[type=submit]{
+	width:150px;
+	margin-top:10px;
+	cursor:pointer; 
+	}
+.amader-form p{
+	color:white;
+}
+.amader-form p a{
+	color:yellow;
+}
+	
